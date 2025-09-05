@@ -18,17 +18,23 @@ Theo dõi lịch sử các yêu cầu và tình trạng phòng học.
 
 Hệ thống được phát triển bằng PHP, MySQL, Bootstrap và áp dụng mô hình MVC.
 
-🔧 2. Công nghệ sử dụng
-<div align="center">
-Ngôn ngữ và Framework
+2. Công nghệ sử dụng
 
+Ngôn ngữ và Framework:
 
+PHP: Ngôn ngữ lập trình phía server.
 
+Bootstrap: Framework CSS để xây dựng giao diện responsive.
 
-Cơ sở dữ liệu
+Cơ sở dữ liệu:
 
-Công cụ hỗ trợ
+MySQL: Lưu trữ thông tin người dùng, phòng học, lớp học và các yêu cầu đặt phòng.
 
+Công cụ hỗ trợ:
+
+XAMPP/WAMP: Môi trường chạy PHP và MySQL.
+
+Visual Studio Code: Trình soạn thảo code.
 </div>
 🚀 3. Các module chính
 
