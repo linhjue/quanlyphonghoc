@@ -36,13 +36,18 @@ XAMPP/WAMP: Môi trường chạy PHP và MySQL.
 
 Visual Studio Code: Trình soạn thảo code.
 </div>
-🚀 3. Các module chính
+🚀 3. Hình ảnh cách chức năng
 
 Quản lý Users: Admin quản lý sinh viên, giảng viên và admin khác.
 
+<img width="1912" height="750" alt="image" src="https://github.com/user-attachments/assets/360f8405-79df-4995-882e-86f5ae5fe7bd" />
+
 Quản lý Rooms: Admin quản lý phòng học, trạng thái và thông tin chi tiết.
+<img width="1884" height="573" alt="image" src="https://github.com/user-attachments/assets/e12555b4-7a81-4929-9025-2082c5ee3c0c" />
+
 
 Quản lý Classes: Quản lý thông tin lớp học và giảng viên phụ trách.
+<img width="1919" height="545" alt="image" src="https://github.com/user-attachments/assets/0e38d17b-6fa3-4063-9c80-549256cc9372" />
 
 Requests: Sinh viên/giảng viên gửi yêu cầu đặt phòng, admin duyệt.
 
