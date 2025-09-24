@@ -117,7 +117,7 @@ Mở file config.php (hoặc .env) trong project, chỉnh thông tin DB:
         $servername = "localhost";
         $username = "root";
         $password = "";
-        $dbname = "quan_ly_doan_vien";
+        $dbname = "classroom_management";
         $port = 3306;
         $conn = mysqli_connect($servername, $username, $password, $dbname, $port);
         if (!$conn) {
