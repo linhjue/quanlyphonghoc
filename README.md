@@ -68,6 +68,7 @@ Hệ thống Quản lý Phòng học trong trường Đại học được xây 
 
 ### Trang quản lý duyệt đăng ký mượn phòng
 <img width="1920" height="884" alt="image" src="https://github.com/user-attachments/assets/cca74d53-52f7-401e-8fac-294b3042346f" />
+
 ### Trang quản lý lịch học
 <img width="1899" height="896" alt="image" src="https://github.com/user-attachments/assets/b708ae58-31a4-4c72-b4ac-d947f9326743" />
 
