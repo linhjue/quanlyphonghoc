@@ -48,28 +48,38 @@ Hệ thống Quản lý Phòng học trong trường Đại học được xây 
 </div>
 
 ## 🚀 3. Hình ảnh các chức năng
+
 ### Trang đăng nhập
 <img width="1836" height="883" alt="image" src="https://github.com/user-attachments/assets/ede02d13-b83d-4a26-b8d8-88c64fa38232" />
+
 ### Trang dashboard admin
 <img width="1906" height="911" alt="image" src="https://github.com/user-attachments/assets/fcb36a1f-827b-4340-9ae1-8c23f80c809b" />
+
 ### Trang dashboard giảng viên 
 <img width="1920" height="908" alt="image" src="https://github.com/user-attachments/assets/10be46ed-2e58-44bc-9385-8064b83b1f05" />
+
 ### Trang dashboard sinh viên   
 
 ### Trang xem lịch dạy  
 <img width="1908" height="888" alt="image" src="https://github.com/user-attachments/assets/3dd750e7-6a4f-4296-89d3-8dd6e957375a" />
+
 ### Trang mượn phòng của giảng viên
 <img width="1896" height="908" alt="image" src="https://github.com/user-attachments/assets/48d5c518-cf3d-4bce-8c40-5bf31267e769" />
+
 ### Trang quản lý duyệt đăng ký mượn phòng
 <img width="1920" height="884" alt="image" src="https://github.com/user-attachments/assets/cca74d53-52f7-401e-8fac-294b3042346f" />
 ### Trang quản lý lịch học
 <img width="1899" height="896" alt="image" src="https://github.com/user-attachments/assets/b708ae58-31a4-4c72-b4ac-d947f9326743" />
+
 ### Trang quản lý người dùng
 <img width="1872" height="877" alt="image" src="https://github.com/user-attachments/assets/398c7180-0a82-409e-944d-1b203293b13b" />
+
 ### Trang quản lý phòng
 <img width="1892" height="892" alt="image" src="https://github.com/user-attachments/assets/07f4eacc-3d96-4f78-9811-0bde1715eb60" />
+
 ### Trang quản lý lớp
 <img width="1871" height="901" alt="image" src="https://github.com/user-attachments/assets/fe2cbc22-669e-4fd1-aac9-7d42e9fba799" />
+
 ### Trang quản lý lịch
 <img width="1889" height="904" alt="image" src="https://github.com/user-attachments/assets/336824e5-ba3e-4665-bd66-83f2f06cb0e1" />
 
